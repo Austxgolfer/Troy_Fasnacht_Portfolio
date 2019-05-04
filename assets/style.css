@@ -9,7 +9,9 @@ body {
 #titlepage {
     margin-bottom: 500px;
 }
-
+#projects {
+    background-color: #1870a2;
+}
 #toprow {
     background: #4aaaaf;
     color:#ffffff;
