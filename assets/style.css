@@ -1,6 +1,13 @@
-.container {
-    background-image: url("images/crossline-dots.png");
+body {
+    background-image: url(./images/Downtown-Austin.jpg);
+}
+#vertnav {
+    margin:0px;
+    width:190px;
+}
     
+#titlepage {
+    margin-bottom: 500px;
 }
 
 #toprow {
